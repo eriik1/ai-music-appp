@@ -1,0 +1,23 @@
+.heading{
+    width: 100%;
+    font-size: 23px;
+    color: black;
+}
+body{
+    background-size: cover;
+    
+}
+
+.btn-warning{
+    text-align: center;
+    margin-left: 600px;
+    font-size: 20px;
+    width: 145px;
+}
+.note{
+    white-space: pre-line;
+}
+canvas{
+    margin-top: 100px;
+    box-shadow: 5px 5px 5px red;
+}
